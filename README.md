@@ -21,8 +21,8 @@ We will use RStudio Cloud for the workshop so you don't need to install anything
 ### ASA Connecticut Chapter
 
 - Accessing materials:
-  - Option 1 (recommended): [**RStudio Cloud**](http://rstd.io/asa-shiny-cloud)
-  - Option 2: [**GitHub repo, if you want to download everything**](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials)
+  - Option 1 (recommended): [RStudio Cloud](http://rstd.io/asa-shiny-cloud)
+  - Option 2: [GitHub repo](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials) (if you want to download everything)
 
 - Slides:
   - [Welcome](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/00-welcome/00-welcome.pdf)
