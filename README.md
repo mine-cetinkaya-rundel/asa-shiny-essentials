@@ -16,15 +16,20 @@ We will use RStudio Cloud for the workshop so you don't need to install anything
 - ASA Boston Chapter: Oct 16 & 23, 2020, 1-4pm ET
 - ASA Florida Chapter: TBA
 
-## Slides
+## Materials
 
 ### ASA Connecticut Chapter
 
-- [Welcome](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/00-welcome/00-welcome.pdf)
-- [Getting started](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/01-getting-started/01-getting-started.pdf)
-- [Understanding reactivity](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/02-understand-reactivity/02-understand-reactivity.pdf)
-- [Designing UI](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/03-design-ui/03-design-ui.pdf)
-- [Dashboards](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/04-dashboards//04-dashboards.pdf)
+- Accessing materials:
+  - Option 1 (recommended): [**RStudio Cloud**](http://rstd.io/asa-shiny-cloud)
+  - Option 2: [**GitHub repo, if you want to download everything**](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials)
+
+- Slides:
+  - [Welcome](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/00-welcome/00-welcome.pdf)
+  - [Getting started](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/01-getting-started/01-getting-started.pdf)
+  - [Understanding reactivity](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/02-understand-reactivity/02-understand-reactivity.pdf)
+  - [Designing UI](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/03-design-ui/03-design-ui.pdf)
+  - [Dashboards](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/04-dashboards//04-dashboards.pdf)
 
 ## Instructor
 
