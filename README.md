@@ -21,10 +21,10 @@ We will use RStudio Cloud for the workshop so you don't need to install anything
 ### ASA Connecticut Chapter
 
 - [Welcome](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/00-welcome/00-welcome.pdf)
-- [Getting started]()
-- [Understanding reactivity]()
-- [Designing UI]()
-- [Dashboards]()
+- [Getting started](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/01-getting-started/01-getting-started.pdf)
+- [Understanding reactivity](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/02-understand-reactivity/02-understand-reactivity.pdf)
+- [Designing UI](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/03-design-ui/03-design-ui.pdf)
+- [Dashboards](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/04-dashboards//04-dashboards.pdf)
 
 ## Instructor
 
