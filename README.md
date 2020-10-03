@@ -11,14 +11,14 @@ We will use RStudio Cloud for the workshop so you don't need to install anything
 
 ## Sessions
 
-- ASA Connecticut Chapter: Sep 16, 2020, 9am-12pm ET
+- ASA Connecticut Chapter: Sep 16, 2020, 9am-12pm ET [[workshop materials]](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials/releases/tag/CT)
 - ASA Southern California Chapter: Oct 3, 2020, 10am01pm PT
 - ASA Boston Chapter: Oct 16 & 23, 2020, 1-4pm ET
 - ASA Florida Chapter: TBA
 
 ## Materials
 
-### ASA Connecticut Chapter
+### ASA Southern California Chapter
 
 - Accessing materials:
   - Option 1 (recommended): [RStudio Cloud](http://rstd.io/asa-shiny-cloud)
