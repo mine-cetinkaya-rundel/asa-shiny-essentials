@@ -9,13 +9,6 @@ Shiny is an R package that makes it easy to build interactive web apps straight�
 
 We will use RStudio Cloud for the workshop so you don't need to install anything ahead of time. I recommend using either Google Chrome or Firefox as your browser. We will regularly break for small group activities so please be ready to work through hands on exercises with others in the workshop. It would be useful if you're able to keep your video and mic on at least during the breakout groups. I will ask that you keep yourself muted during the main session and put any questions in the chat window. If you're able to do so, I encourage you to keep your video on during the main session as well, but this is entirely optional.
 
-## Sessions
-
-- ASA Connecticut Chapter: Sep 16, 2020, 9am-12pm ET [[workshop materials]](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials/releases/tag/CT)
-- ASA Southern California Chapter: Oct 3, 2020, 10am01pm PT
-- ASA Boston Chapter: Oct 16 & 23, 2020, 1-4pm ET
-- ASA Florida Chapter: TBA
-
 ## Materials
 
 ### ASA Southern California Chapter
@@ -33,7 +26,19 @@ We will use RStudio Cloud for the workshop so you don't need to install anything
 
 ## Instructor
 
-Mine Çetinkaya-Rundel is Senior Lecturer in the School of Mathematics at University of Edinburgh and Data Scientist and Professional Educator at RStudio. She is on leave from her Associate Professor of the Practice position at the Department of Statistical Science at Duke University. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. She also organizes ASA DataFest, an annual two-day competition in which teams of undergraduate students work to reveal insights into a rich and complex data set. Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored three open-source introductory statistics textbooks. She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera. 
+Mine Çetinkaya-Rundel is Senior Lecturer in the School of Mathematics at University of Edinburgh and Data Scientist and Professional Educator at RStudio. She is on leave from her Associate Professor of the Practice position at the Department of Statistical Science at Duke University. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. She also organizes [ASA DataFest](https://ww2.amstat.org/education/datafest/), an annual two-day competition in which teams of undergraduate students work to reveal insights into a rich and complex data set. Mine works on the [OpenIntro](http://openintro.org/) project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored three open-source introductory statistics textbooks. She is also the creator and maintainer of [datasciencebox.org](https://datasciencebox.org/) and she teaches the popular Statistics with R MOOC on Coursera. 
+
+## Sessions
+
+### Upcoming
+
+- ASA Southern California Chapter: Oct 3, 2020, 10am01pm PT
+- ASA Boston Chapter: Oct 16 & 23, 2020, 1-4pm ET
+- ASA Florida Chapter: Nov 4, 2020, 9:30am-12:30pm ET
+
+### Past
+
+- ASA Connecticut Chapter: Sep 16, 2020, 9am-12pm ET [[workshop materials]](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials/releases/tag/CT)
 
 ## License
 
