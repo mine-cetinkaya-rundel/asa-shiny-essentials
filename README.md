@@ -17,12 +17,14 @@ We will use RStudio Cloud for the workshop so you don't need to install anything
   - Option 1 (recommended): [RStudio Cloud](http://rstd.io/asa-shiny-cloud)
   - Option 2: [GitHub repo](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials) (if you want to download everything)
 
-- Slides:
+- Slides (for both sessions):
   - [Welcome](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/00-welcome/00-welcome.pdf)
   - [Getting started](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/01-getting-started/01-getting-started.pdf)
   - [Understanding reactivity](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/02-understand-reactivity/02-understand-reactivity.pdf)
   - [Designing UI](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/03-design-ui/03-design-ui.pdf)
   - [Dashboards](https://mine-cetinkaya-rundel.github.io/asa-shiny-essentials/04-dashboards//04-dashboards.pdf)
+- Modules: Refactoring your apps as they grow into modules
+- Troubleshooting: Useful tips for those pesky errors
 
 ## Instructor
 
