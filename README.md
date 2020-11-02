@@ -11,7 +11,7 @@ We will use RStudio Cloud for the workshop so you don't need to install anything
 
 ## Materials
 
-### ASA Boston Chapter
+### ASA Florida Chapter
 
 - Accessing materials:
   - Option 1 (recommended): [RStudio Cloud](http://rstd.io/asa-shiny-cloud)
@@ -32,13 +32,9 @@ Mine Çetinkaya-Rundel is Senior Lecturer in the School of Mathematics at Univer
 
 ## Sessions
 
-### Upcoming
-
-- ASA Boston Chapter: Oct 16 & 23, 2020, 1-4pm ET
-- ASA Florida Chapter: Nov 4, 2020, 9:30am-12:30pm ET
-
 ### Past
 
+- ASA Boston Chapter: Oct 16 & 23, 2020, 1-4pm ET
 - ASA Southern California Chapter: Oct 3, 2020, 10am01pm PT
 - ASA Connecticut Chapter: Sep 16, 2020, 9am-12pm ET [[workshop materials]](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials/releases/tag/CT)
 
